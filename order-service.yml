@@ -14,4 +14,4 @@ spring:
   data:
     mongodb:
       database: order-service_db
-      port: 27027
+      port: 27017
